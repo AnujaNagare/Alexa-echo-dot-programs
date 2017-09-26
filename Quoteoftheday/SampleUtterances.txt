@@ -1,0 +1,11 @@
+GetNewFactIntent a fact
+GetNewFactIntent a quote
+GetNewFactIntent a quote of the day
+GetNewFactIntent tell me a quote of the day
+GetNewFactIntent tell me a quote
+GetNewFactIntent give me a quote
+GetNewFactIntent give me some information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetNewFactIntent give me motivational quote
+GetNewFactIntent give me quote
